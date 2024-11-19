@@ -1,0 +1,18 @@
+img:hover{
+    content: url(Design_sem_nome_16_2rUxoxd.jpg);
+    }
+    body{
+        background-color: white;
+    }
+    .img{
+        width: 30%;
+    }
+    #apagado{
+       width: 50%;
+    }
+    hr{
+        border: 0,8px solid;
+        border-color: rgb(255, 255, 255);
+        width: 100%;
+    }
+    
